@@ -36,7 +36,7 @@ return ( <div className="app"> <nav className="navbar"> <div className="logo">De
     </section>
 
     <section className="section" id="about">
-      <h2>About This Project</h2>
+      <h2>About CI project</h2>
 
       <p>
         This application is a demo project that can be connected to a
